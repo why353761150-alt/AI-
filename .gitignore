@@ -1,23 +1,20 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-files
-*.bclicense
-*.flf
-#Test results file
-TestResults.xml
+# --- Obsidian 工作区与缓存 ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/hotkeys.json
+
+# --- 系统垃圾文件 ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- 你的私有数据（强烈建议） ---
+_system/library.json
+_system/review_state.json
+_inbox/
+
+# --- 书籍文件（版权原因，不要公开上传） ---
+*.epub
+*.pdf
+*.mobi
