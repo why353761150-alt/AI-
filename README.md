@@ -1,4 +1,4 @@
-# 📚 AI 阅读调度中心 (AI Reading Coach)
+# 📚 AI辅助阅读助手 (AI Reading Coach)
 
 一个运行在 [WorkBuddy](https://workbuddy.ai) 上的智能阅读 Skill，将书籍分为六种类型，为每种类型匹配专属的 AI 教练。所有阅读数据与知识卡片以纯文本形式存储在本地 Obsidian Vault 中，完全由你掌控。
 
